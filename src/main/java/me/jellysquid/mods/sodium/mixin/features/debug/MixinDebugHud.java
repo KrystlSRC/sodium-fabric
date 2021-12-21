@@ -28,7 +28,7 @@ public abstract class MixinDebugHud {
         strings.add("");
         strings.add("Sodium Renderer");
         strings.add(Formatting.UNDERLINE + getFormattedVersionText());
-        strings.add("MrMangoHands' Build");
+        strings.add("MrMangoHands' Build uwu");
         strings.add("");
         strings.addAll(getChunkRendererDebugStrings());
 
